@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+azureenv/
+venv/
+env/
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
